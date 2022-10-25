@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Basic html    ",
+        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
+        "short-description": "Short Description will be here",
+        "details_course_description": "Course details details description",
+        "created_by": "Abdullah Al Rafid",
+        "course_duration": "8 Hours",
+        "total_module": 5,
+        "price": 260
+    },
+    {
+        "id": 2,
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Basic html    ",
+        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
+        "short-description": "Short Description will be here",
+        "details_course_description": "Course details details description",
+        "created_by": "Abdullah Al Rafid",
+        "course_duration": "8 Hours",
+        "total_module": 5,
+        "price": 260
+    },
+    {
+        "id": 3,
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Basic html    ",
+        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
+        "short-description": "Short Description will be here",
+        "details_course_description": "Course details details description",
+        "created_by": "Abdullah Al Rafid",
+        "course_duration": "8 Hours",
+        "total_module": 5,
+        "price": 260
+    },
+    {
+        "id": 4,
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Basic html    ",
+        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
+        "short-description": "Short Description will be here",
+        "details_course_description": "Course details details description",
+        "created_by": "Abdullah Al Rafid",
+        "course_duration": "8 Hours",
+        "total_module": 5,
+        "price": 260
+    }
+]
