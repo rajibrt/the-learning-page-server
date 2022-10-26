@@ -1,66 +1,140 @@
 [
     {
         "id": 1,
-        "category_id": "01",
+        "category_id": 1,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
-        "title": "Basic html    ",
-        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
-        "short-description": "Short Description will be here",
-        "details_course_description": "Course details details description",
-        "created_by": "Abdullah Al Rafid",
+        "title": "Basics of Web Development & Coding Specialization",
+        "picture": "https://i.ibb.co/VgkD3B5/web-development.jpg",
+        "what_you_will_learn": [
+            "Add interacitivity to web pages with Javascript",
+            "Describe the basics of Cascading Style Sheets (CSS3) ",
+            "Use the Document Object Model (DOM) to modify pages",
+            "Apply responsive design to enable page to be viewed by various devices"
+        ],
+        "short_description": "Learn to Design and Create Websites. Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScript",
+        "details_course_description": "This Specialization covers how to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript. Mastering this range of technologies will allow you to develop high quality web sites that, work seamlessly on mobile, tablet, and large screen browsers accessible. During the capstone you will develop a professional-quality web portfolio demonstrating your growth as a web developer and your knowledge of accessible web design. This will include your ability to design and implement a responsive site that utilizes tools to create a site that is accessible to a wide audience, including those with visual, audial, physical, and cognitive impairments.",
+        "created_by": "Colleen van Lent, Ph.D.",
+        "author_image": "https://i.ibb.co/ZTYjqft/ilkay-altintas.jpg",
         "course_duration": "8 Hours",
         "total_module": 5,
         "price": 260
     },
     {
         "id": 2,
-        "category_id": "01",
+        "category_id": 1,
         "rating": {
-            "number": 4.5,
+            "number": 4.1,
             "badge": "Excellent"
         },
-        "title": "Basic html    ",
-        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
-        "short-description": "Short Description will be here",
-        "details_course_description": "Course details details description",
-        "created_by": "Abdullah Al Rafid",
+        "title": "MSc Cyber Security",
+        "picture": "https://i.ibb.co/dJwj2VY/cyber-security.jpg",
+        "what_you_will_learn": [
+            "Add interacitivity to web pages with Javascript",
+            "Describe the basics of Cascading Style Sheets (CSS3) ",
+            "Use the Document Object Model (DOM) to modify pages",
+            "Apply responsive design to enable page to be viewed by various devices"
+        ],
+        "short_description": "Learn real-world applicable skills from leading industry experts and position yourself for both immediate impact and long-term success as an in-demand cyber security professional.",
+        "details_course_description": "In this programme, you’ll focus on a wide range of security techniques, addressing modern challenges in cyber security with a human-centric approach. You’ll work with real-world case studies that are constantly updated to reflect new and timely issues and study how various organisations solve security management problems. You’ll explore the major cryptographic mechanisms and how they can be applied and learn how computer systems and networks are made secure.\n\nThroughout your studies, you’ll learn from world-class cyber security experts with decades of both industry and academic experience. As a student in this programme, you will:\n\nBuild practical applied skills relevant to current and emerging demands in the cyber security field.\nMaster the latest and most relevant tools, techniques, strategies, and technologies.\nRefine your ability to think critically about how organisations manage security.\nEnjoy direct access to industry professionals with specific expertise in key areas of cyber security.\nGain experience working with real-world case studies that reflect new and timely challenges.\n",
+        "created_by": "Colleen van Lent, Ph.D.",
+        "author_image": "https://i.ibb.co/XL0CDCM/laurie-santos.jpg",
         "course_duration": "8 Hours",
         "total_module": 5,
         "price": 260
     },
     {
         "id": 3,
-        "category_id": "02",
+        "category_id": 1,
         "rating": {
-            "number": 4.5,
+            "number": 4.3,
             "badge": "Excellent"
         },
-        "title": "Basic html    ",
-        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
-        "short-description": "Short Description will be here",
-        "details_course_description": "Course details details description",
-        "created_by": "Abdullah Al Rafid",
-        "course_duration": "8 Hours",
-        "total_module": 5,
-        "price": 260
+        "title": "Basic Data Processing and Visualization",
+        "picture": "https://i.ibb.co/kQfKJK3/data-processing.jpg",
+        "what_you_will_learn": [
+            "Develop data strategy and process for how data will be generated, collected, and consumed",
+            "Deal with data in various formats (e.g. timestamps, strings) and filter and “clean” datasets by removing outliers etc.",
+            "Load and process formatted datasets such as CSV and JSON.",
+            "Basic experience with data processing libraries such as numpy and data ingestion with urllib, requests"
+        ],
+        "short_description": "This is the first course in the four-course specialization Python Data Products for Predictive Analytics, introducing the basics of reading and manipulating datasets in Python. In this course, you will learn what a data product is and go through several Python libraries to perform data retrieval, processing, and visualization. ",
+        "details_course_description": "This is the first course in the four-course specialization Python Data Products for Predictive Analytics, introducing the basics of reading and manipulating datasets in Python. In this course, you will learn what a data product is and go through several Python libraries to perform data retrieval, processing, and visualization.",
+        "created_by": "Julian McAuley",
+        "author_image": "https://i.ibb.co/S3BLj8n/julian-mcauley.jpg",
+        "course_duration": "5 Hours",
+        "total_module": 8,
+        "price": 380
     },
     {
         "id": 4,
-        "category_id": "02",
+        "category_id": 1,
         "rating": {
-            "number": 4.5,
+            "number": 4.7,
             "badge": "Excellent"
         },
-        "title": "Basic html    ",
-        "picture": "https://i.ibb.co/G518DHr/hotel-1.jpg",
-        "short-description": "Short Description will be here",
-        "details_course_description": "Course details details description",
-        "created_by": "Abdullah Al Rafid",
-        "course_duration": "8 Hours",
-        "total_module": 5,
+        "title": "Cybersecurity for Everyone",
+        "picture": "https://i.ibb.co/NYzk1VN/cybersecurity.jpg",
+        "what_you_will_learn": [
+            "Develop data strategy and process for how data will be generated, collected, and consumed",
+            "Deal with data in various formats (e.g. timestamps, strings) and filter and “clean” datasets by removing outliers etc.",
+            "Load and process formatted datasets such as CSV and JSON.",
+            "Basic experience with data processing libraries such as numpy and data ingestion with urllib, requests"
+        ],
+        "short_description": "Cybersecurity affects everyone, including in the delivery of basic products and services. If you or your organization want to better understand how to address your cybersecurity, this is the course for you and your colleagues to take -- from seasoned professionals to your non-technical colleagues.",
+        "details_course_description": "Cybersecurity affects everyone, including in the delivery of basic products and services. If you or your organization want to better understand how to address your cybersecurity, this is the course for you and your colleagues to take -- from seasoned professionals to your non-technical colleagues..Your instructor, Dr. Charles Harry, has served on the front lines with the NSA (National Security Agency) and as an expert advising corporate and institutional leaders on managing cybersecurity risk. And he brings a rare and engaging perspective to help you learn cybersecurity from the ground up. Cybersecurity for Everyone lays the groundwork to understand and explore the key issues facing policy makers attempting to manage the problem of cybersecurity, from its technical foundations to the domestic and international policy considerations surrounding governance, privacy, and risk management, to applications for achieving the goals of an enterprise, an institution, or a nation. This course is designed for students with some or no background in information technology, whether a novice or active in the cybersecurity field (engineers and computer scientists will learn the broader context and business aspects of cybersecurity), and will provide the principles to understand the current debates shaping a rapidly evolving security landscape.",
+        "created_by": "Charles Harry",
+        "author_image": "https://i.ibb.co/vmpGGHD/charles-harry.jpg",
+        "course_duration": "12 Hours",
+        "total_module": 8,
+        "price": 360
+    },
+    {
+        "id": 5,
+        "category_id": 1,
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "title": "Data Processing Using Python",
+        "picture": "https://i.ibb.co/DwwLjW8/python.jpg",
+        "what_you_will_learn": [
+            "Develop data strategy and process for how data will be generated, collected, and consumed",
+            "Deal with data in various formats (e.g. timestamps, strings) and filter and “clean” datasets by removing outliers etc.",
+            "Load and process formatted datasets such as CSV and JSON.",
+            "Basic experience with data processing libraries such as numpy and data ingestion with urllib, requests"
+        ],
+        "short_description": "This course, as a whole, based on Finance data and through the establishment of popular cases one after another, enables learners to more vividly feel the simplicity, elegance, and robustness of Python. ",
+        "details_course_description": "This course (The English copy of 用Python玩转数据 <https://www.coursera.org/learn/hipython/home/welcome>) is mainly for non-computer majors. It starts with the basic syntax of Python, to how to acquire data in Python locally and from network, to how to present data, then to how to conduct basic and advanced statistic analysis and visualization of data, and finally to how to design a simple GUI to present and process data, advancing level by level. This course, as a whole, based on Finance data and through the establishment of popular cases one after another, enables learners to more vividly feel the simplicity, elegance, and robustness of Python. Also, it discusses the fast, convenient and efficient data processing capacity of Python in humanities and social sciences fields like literature, sociology and journalism and science and engineering fields like mathematics and biology, in addition to business fields. Similarly, it may also be flexibly applied into other fields.The course has been updated. Updates in the new version are : 1) the whole course has moved from Python 2.x to Python 3.x 2) Added manual webpage fetching and parsing. Web API is also added. 3) Improve the content order and enrich details of some content especially for some practice projects. Note: videos are in Chinese (Simplified) with English subtitles. All other materials are in English.",
+        "created_by": "Charles Harry",
+        "author_image": "https://i.ibb.co/vmpGGHD/charles-harry.jpg",
+        "course_duration": "12 Hours",
+        "total_module": 8,
         "price": 260
+    },
+    {
+        "id": 6,
+        "category_id": 1,
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "title": "Introduction to Architecting Smart IoT Devices",
+        "picture": "https://i.ibb.co/n63gKQv/architecting.jpg",
+        "what_you_will_learn": [
+            "Develop data strategy and process for how data will be generated, collected, and consumed",
+            "Deal with data in various formats (e.g. timestamps, strings) and filter and “clean” datasets by removing outliers etc.",
+            "Load and process formatted datasets such as CSV and JSON.",
+            "Basic experience with data processing libraries such as numpy and data ingestion with urllib, requests"
+        ],
+        "short_description": "Embedded Systems are so ubiquitous that some of us take them for granted: we find them in smartphones, GPS systems, airplanes, and so on. But have you ever wondered how these devices actually work? If so, you're in the right place!",
+        "details_course_description": "Embedded Systems are so ubiquitous that some of us take them for granted: we find them in smartphones, GPS systems, airplanes, and so on. But have you ever wondered how these devices actually work? If so, you're in the right place! In this course, you'll learn about the characteristics of embedded systems: the possibilities, dangers, complications, and recipes for success. We'll discuss all of this in the framework of a flourishing embedded systems field: the Internet of Things, where billions of intercommunicating devices could enable unprecedented, innovative products and services. If you'd like to learn how to create similarly innovative products, then this is the course for you! At the end of the course, you'll be able to: - make the right choice for your own project when it comes to the target market, parallel executions, time, and the lifecycle of your system - hack, avoid failure and promote success - decide whether to buy or to build components- how to assemble a good team- install case tools - learn how to work with SysML",
+        "created_by": "Martin Timmerman",
+        "author_image": "https://i.ibb.co/z8bV4Dd/martin-timmerman.jpg",
+        "course_duration": "4 Hours",
+        "total_module": 8,
+        "price": 180
     }
 ]
